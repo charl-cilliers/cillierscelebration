@@ -69,6 +69,11 @@
                 background-color: #1d2124;
             }
 
+            .invitation {
+                height: 70%;
+                width: 70%;
+            }
+
             .m-b-md {
                 margin-bottom: 30px;
             }
@@ -78,7 +83,7 @@
         <div class="flex-center position-ref full-height">
 
             <div class="content">
-
+                <img src={{asset('images/invitation.jpg')}} alt="Logo" class="invitation">
             </div>
         </div>
     </body>

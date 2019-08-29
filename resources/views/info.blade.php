@@ -50,7 +50,11 @@
             }
 
             .content {
-                text-align: center;
+                /*text-align: center;*/
+                background-color: white;
+                width: 700px;
+                padding: 10px 10px 10px 10px;
+                text-align: justify;
             }
 
             .title {
@@ -75,10 +79,63 @@
         </style>
     </head>
     <body>
-        <div class="flex-center position-ref full-height">
+        <div class="flex-center">
+            <div>
+                <div class="content">
+                    <ul>
+                        <li>
+                            <b>Tydsverloop - </b>Hierdie is net ‘n voorlopige raamwerk, ons sal nader aan die tyd
+                            die finale tye deurgee. Hou asb die webwerf dop so maand voor die troue en
+                            luister maar mooi wat die MC op die naweek laat weet.
+                        </li>
+                        <ul>
+                            <li>Vrydag 10 January</li>
+                            <ul>
+                                <li>16:00 – Gaste begin arriveer te Pat Busch Mountain Reserve</li>
+                                <li>20:00 – Aandete</li>
+                            </ul>
+                            <li>Saterdag 11 January</li>
+                            <ul>
+                                <li>11:00 – Brunch te Pat Busch Mountain Reserve</li>
+                                <li>17:00 – Seremonie begin onder die Groot Boom</li>
+                                <li>17:45 – Pre-drinks en Harvest Table by die Swembad</li>
+                                <li>19:45 – Onthaal begin op die Meadow</li>
+                                <li>21:00 – Aandete</li>
+                            </ul>
+                            <li>Sondag 12 January</li>
+                            <ul>
+                                <li>Gaste vertrek op hul eie tyd</li>
+                            </ul>
+                        </ul>
+                    </ul>
+                </div>
 
-            <div class="content">
+                <div class="content">
+                    <ul>
+                        <li><b>Algemene inligting</b></li>
+                        <ul>
+                            <li>Daar is nie baie sein op die venue nie, so berei maar voor daarop. Laai
+                                voor die tyd die padkaart af en maak al jou reëlings.</li>
+                            <li>Robertson is so 20 min van die venue af.</li>
+                            <li>Daar is 'n klein winkeltjie by die venue met die basiese koeldranke, tjips,
+                                ens.</li>
+                            <li>Die venue is aan die einde van 'n redelike goeie grondpad, maar hou dit
+                                maar in gedagte as julle besluit waarmee om te ry en probeer saamry
+                                waar julle kan.</li>
+                            <li>Ons verskaf etes vir Vrydagaand, Saterdag brunch en Saterdagaand. As
+                                julle meer as dit nodig het, bring asb iets saam (waarskynlik vir Saterdag
+                                laatmiddag en iets vir Sondagoggend).</li>
+                            <li>Ons vier Vrydagaand 'n paar verjaarsdae so bring asb julle eie drinks
+                                saam en ook vir Saterdag deur die dag as julle ietsie wil drink by die
+                                brunch en deur die loop van die dag. Daar sal 'n volle bar wees by die
+                                troue.</li>
+                        </ul>
+                    </ul>
+                </div>
 
+                <div class="content">
+                    Link to Google Maps: <a href="https://www.google.com/maps/dir/Cape+Town+International+Airport,+Matroosfontein,+Cape+Town/Pat+Busch+Mountain+Reserve,+Bergendal+Farm,+Bergendal+Road,+Klaasvoogds+West,+Robertson,+6705/@-33.8951121,18.7254651,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x1dcc4542f7400bbd:0x40487579e3cf5e90!2m2!1d18.6020851!2d-33.971463!1m5!1m1!1s0x1dd2425331ddb491:0x8a107c0604fb4125!2m2!1d19.996848!2d-33.776671!3e0">Google maps</a>
+                </div>
             </div>
         </div>
     </body>

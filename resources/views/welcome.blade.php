@@ -55,7 +55,13 @@
 
             .title {
                 color: white;
+                margin-top: 50px;
                 font-size: 84px;
+            }
+
+            .stitle {
+                color: white;
+                font-size: 40px;
             }
 
             .links > a {
@@ -68,6 +74,26 @@
                 text-transform: uppercase;
                 background-color: #1d2124;
             }
+            .quote {
+                background-color: black;
+                color: white;
+            }
+
+            .information {
+                background-color: white;
+                color: black;
+                width: 750px;
+                border: solid 1px;
+                padding: 20px;
+                padding-right: 50px;
+                text-align: justify;
+                -moz-box-shadow:    3px 3px 5px 0px #000;
+                -webkit-box-shadow: 3px 3px 5px 0px #000;
+                box-shadow:         3px 3px 5px 0px #000;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+            }
 
             .m-b-md {
                 margin-bottom: 15px;
@@ -78,8 +104,11 @@
         <div class="flex-center position-ref full-height">
 
             <div class="content">
-                <div class="title m-b-md">
+                <div class="title">
                     Cilliers Celebration
+                </div>
+                <div class="stitle">
+                    10-12 January 2020
                 </div>
 
                 <div></div>
@@ -89,6 +118,48 @@
                     <a href="{{ url('/rsvp') }}">RSVP</a>
                     <a href="{{ url('/registries') }}">Registries</a>
                     <a href="{{ url('/info') }}">Extra Information</a>
+                </div>
+
+                <div class="quote">
+                    “Love is not an emotion, it is your very existence” - Rumi
+                </div>
+
+                <div class="information">
+                    <ul>
+                        <li>
+                            “Beste familie en vriende, ons sien vreeslik baie uit om die hele naweek van 10-
+                            12 Jan 2020 saam met julle fees vier te Pat Busch Mountain Reserve. Ons begin
+                            reeds Vrydagaand met ‘n verjaarsdagviering vir Inari (wat ouderdom en van
+                            verander Saterdag 11 Jan). Julle is welkom om van 16:00 af by ons aan te sluit,
+                            maar ons verstaan dat daar sommige mense is wat eers later gaan kan aansluit.
+                            Bring asb julle eie drinkgoed vir Vrydagaand, ons sal sorg vir aandete. Dit sal vir
+                            ons lekker wees as julle Saterdagoggend om en by 11:00 saam met ons sal kom
+                            brunch. Ons sal weereens die eetgoed voorsien as julle net ietsie om te drink en
+                            ‘n kombers om op te piekniek sal bring. Julle is welkom om ook julle swemklere,
+                            handdoek of stapskoene te bring aangesien daar ‘n dam en swembad is om in te
+                            swem en ‘n berg wat geklim kan word (julle sal ons waarskynlik by die swem
+                            opsie vind). Die huweliksbevestiging en feesvieringe sal Saterdag om en by
+                            17:00 begin (finale tye sal nader aan die tyd deurgegee word afhangend van die
+                            Kaapse Januarie weer). Aandete sal eers ongeveer 21:00 bedien word, so indien
+                            julle voel julle gaan nie tot dan hou nie, maak asb seker om iets saam te bring om
+                            te eet as ‘n laat middag snack (daar sal darm ook vingerhapies wees direk na die
+                            seremonie). Ons gaan Saterdagaand feesvier tot die son op kom, so
+                            Sondagoggend is almal welkom om op hul eie tyd op te staan en te vertrek. Ons
+                            sien uit na ‘n onvergeetlike naweek. Nicolaas en Inari”
+                        </li>
+                        <li>
+                            “Inligting aangaande die verblyf op Pat Busch sal per e-pos aan die wat daar bly
+                            gekommunikeer word. As daar enige navrae is, asb moenie huiwer om ons te
+                            laat weet nie.”
+                        </li>
+                        <li>
+                            “Gaste wat nie op Pat Busch bly nie moet asb ook op die RSVP aandui of hulle
+                            van die shuttle diens vir die naweek gebruik wil maak – die shuttle sal
+                            Vrydagaand, Saterdagoggend, -laatmiddag en -aand op verskeie tye in beide
+                            rigtings pendel (tussen Pat Busch en die gastehuise wat in ‘n 5km radius van Pat
+                            Busch is – m.aw. die gastehuise wat ons aanbeveel het).”
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>

@@ -66,6 +66,11 @@
                 padding-right: 10px;
             }
 
+            p {
+                padding: 20px;
+                text-align: justify;
+            }
+
             .links > a {
                 color: white;
                 padding: 0 25px;
