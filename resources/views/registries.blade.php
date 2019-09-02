@@ -60,6 +60,7 @@
 
             .box {
                 background-color: white;
+                font-size: 20px;
                 height: 80%;
                 width: 40%;
                 padding-left: 10px;
@@ -80,6 +81,7 @@
                 text-decoration: none;
                 text-transform: uppercase;
                 background-color: #1d2124;
+                margin-bottom: 30px;
             }
 
             .lclogo {
@@ -91,15 +93,15 @@
             }
 
             .homelogo {
-                height: 90px;
-                width: 70%;
+                height: 80px;
+                width: 55%;
                 padding-left: 15%;
                 padding-bottom: 20px;
             }
 
             .yclogo {
-                height: 90px;
-                width: 70%;
+                height: 65px;
+                width: 55%;
                 padding-left: 15%;
             }
 
@@ -127,6 +129,15 @@
                     <a href="https://www.yuppiechef.com/registry.htm?action=view&orderid=3971455"><img src={{asset('images/yclogo.png')}} alt="Logo" class="yclogo"></a>
                 </div>
             </div>
+
+        </div>
+
+        <div class="links flex-center">
+            <a href="{{ url('/home') }}">Home</a>
+            <a href="{{ url('/ander') }}">10-12 Januarie</a>
+            <a href="{{ url('/invitation') }}">Uitnodiging</a>
+            <a href="{{ url('/rsvp') }}">RSVP</a>
+            <a href="{{ url('/info') }}">Ekstra Informasie</a>
         </div>
     </body>
 </html>

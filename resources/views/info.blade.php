@@ -51,7 +51,7 @@
 
             .content {
                 /*text-align: center;*/
-                background-color: white;
+                color: white;
                 width: 700px;
                 padding: 10px 10px 10px 10px;
                 text-align: justify;
@@ -89,12 +89,12 @@
                             luister maar mooi wat die MC op die naweek laat weet.
                         </li>
                         <ul>
-                            <li>Vrydag 10 January</li>
+                            <li>Vrydag 10 Januarie</li>
                             <ul>
                                 <li>16:00 – Gaste begin arriveer te Pat Busch Mountain Reserve</li>
                                 <li>20:00 – Aandete</li>
                             </ul>
-                            <li>Saterdag 11 January</li>
+                            <li>Saterdag 11 Januarie</li>
                             <ul>
                                 <li>11:00 – Brunch te Pat Busch Mountain Reserve</li>
                                 <li>17:00 – Seremonie begin onder die Groot Boom</li>
@@ -102,7 +102,7 @@
                                 <li>19:45 – Onthaal begin op die Meadow</li>
                                 <li>21:00 – Aandete</li>
                             </ul>
-                            <li>Sondag 12 January</li>
+                            <li>Sondag 12 Januarie</li>
                             <ul>
                                 <li>Gaste vertrek op hul eie tyd</li>
                             </ul>
@@ -135,6 +135,14 @@
 
                 <div class="content">
                     Link to Google Maps: <a href="https://www.google.com/maps/dir/Cape+Town+International+Airport,+Matroosfontein,+Cape+Town/Pat+Busch+Mountain+Reserve,+Bergendal+Farm,+Bergendal+Road,+Klaasvoogds+West,+Robertson,+6705/@-33.8951121,18.7254651,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x1dcc4542f7400bbd:0x40487579e3cf5e90!2m2!1d18.6020851!2d-33.971463!1m5!1m1!1s0x1dd2425331ddb491:0x8a107c0604fb4125!2m2!1d19.996848!2d-33.776671!3e0">Google maps</a>
+                </div>
+
+                <div class="links">
+                    <a href="{{ url('/home') }}">Home</a>
+                    <a href="{{ url('/ander') }}">10-12 Januarie</a>
+                    <a href="{{ url('/invitation') }}">Uitnodiging</a>
+                    <a href="{{ url('/rsvp') }}">RSVP</a>
+                    <a href="{{ url('/registries') }}">Registries</a>
                 </div>
             </div>
         </div>

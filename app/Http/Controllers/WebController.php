@@ -22,4 +22,12 @@ class WebController extends Controller
         return view('info');
     }
 
+    public function ander () {
+        return view('anderInfo');
+    }
+
+    public function home () {
+        return view('welcome');
+    }
+
 }

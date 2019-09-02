@@ -19,3 +19,5 @@ Route::get('/invitation', 'WebController@invitation')->name('invitation');
 Route::get('/rsvp', 'WebController@rsvp')->name('rsvp');
 Route::get('/registries', 'WebController@registries')->name('registries');
 Route::get('/info', 'WebController@info')->name('info');
+Route::get('/ander', 'WebController@ander')->name('ander');
+Route::get('/home', 'WebController@home')->name('home');

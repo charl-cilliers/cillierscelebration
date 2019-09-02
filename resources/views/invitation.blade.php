@@ -85,6 +85,14 @@
             <div class="content">
                 <img src={{asset('images/invitation.jpg')}} alt="Logo" class="invitation">
             </div>
+
+            <div class="links">
+                <a href="{{ url('/home') }}">Home</a>
+                <a href="{{ url('/ander') }}">10-12 Januarie</a>
+                <a href="{{ url('/rsvp') }}">RSVP</a>
+                <a href="{{ url('/registries') }}">Registries</a>
+                <a href="{{ url('/info') }}">Ekstra Informasie</a>
+            </div>
         </div>
     </body>
 </html>

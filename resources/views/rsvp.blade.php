@@ -67,12 +67,14 @@
                 text-decoration: none;
                 text-transform: uppercase;
                 background-color: #1d2124;
+                margin-bottom: 75px;
             }
 
             .form {
                 height: 80%;
                 width: 40%;
                 padding-top: 50px;
+                position: center;
             }
 
             .m-b-md {
@@ -82,9 +84,16 @@
     </head>
     <body>
         <div class="flex-center position-ref full-height">
-
-            <div class="form">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUbXb0cHSnmlwW3TjUd-RcOl1exXdIwIaghpcoj9mS3pAJdw/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading…</iframe>
+                <div class="form">
+                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUbXb0cHSnmlwW3TjUd-RcOl1exXdIwIaghpcoj9mS3pAJdw/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading…</iframe>
+                </div>
+        </div>
+            <div class="links flex-center">
+                <a href="{{ url('/home') }}">Home</a>
+                <a href="{{ url('/ander') }}">10-12 Januarie</a>
+                <a href="{{ url('/invitation') }}">Uitnodiging</a>
+                <a href="{{ url('/registries') }}">Registries</a>
+                <a href="{{ url('/info') }}">Ekstra Informasie</a>
             </div>
         </div>
     </body>
