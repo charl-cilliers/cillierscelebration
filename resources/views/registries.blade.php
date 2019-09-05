@@ -114,11 +114,14 @@
         <div class="flex-center position-ref full-height">
 
             <div class="box">
-                <p> Dit is vir ons die grootste geskenk dat julle die naweek saam ons
-                    vier en ons verwag niks meer nie. As julle egter voel julle wil nog iets bygee, om
-                    ons lewe saam te ‘kickstart’, kan julle die volgende ‘gift registries’ oorweeg of 'n
-                    kontant inbetaling maak in die volgende rekening: N Cilliers FNB Tjekrekening
-                    Takkode: 250655 Rekeningnommer: 62817439004</p>
+                <p> Dit is vir ons die grootste geskenk dat julle die naweek saam ons vier en ons verwag niks meer nie. As julle egter voel julle wil nog iets bygee, om ons lewe saam te ‘kickstart’, kan julle 'n kontant betaling in die volgende rekening oorweeg:
+
+                    N Cilliers
+                    FNB Tjekrekening
+                    Takkode: 250655
+                    Rekeningnommer: 62817439004
+
+                    In die alternatief kan julle ook van die volgende gift registries gebruik maak</p>
                 <div>
                     <a href="https://www.lecreuset.co.za/gift-registry/cillierscelebration201971612547"><img src={{asset('images/lclogo.png')}} alt="Logo" class="lclogo"></a>
                 </div>
