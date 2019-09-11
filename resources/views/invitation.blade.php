@@ -67,6 +67,7 @@
                 text-decoration: none;
                 text-transform: uppercase;
                 background-color: #1d2124;
+                margin-bottom: 30px;
             }
 
             .invitation {
@@ -86,13 +87,14 @@
                 <img src={{asset('images/invitation.jpg')}} alt="Logo" class="invitation">
             </div>
 
-            <div class="links">
-                <a href="{{ url('/home') }}">Home</a>
-                <a href="{{ url('/ander') }}">10-12 Januarie</a>
-                <a href="{{ url('/rsvp') }}">RSVP</a>
-                <a href="{{ url('/registries') }}">Registries</a>
-                <a href="{{ url('/info') }}">Ekstra Informasie</a>
-            </div>
+        </div>
+
+        <div class="links flex-center">
+            <a href="{{ url('/home') }}">Home</a>
+            <a href="{{ url('/ander') }}">10-12 Januarie</a>
+            <a href="{{ url('/rsvp') }}">RSVP</a>
+            <a href="{{ url('/registries') }}">Registries</a>
+            <a href="{{ url('/info') }}">Ekstra Inligting</a>
         </div>
     </body>
 </html>

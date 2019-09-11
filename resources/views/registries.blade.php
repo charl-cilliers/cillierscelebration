@@ -21,7 +21,7 @@
             }
 
             body {
-                background-image: url("/images/Pb.jpg") !important;
+                background-image: url("/images/registries.jpg") !important;
                 height: 100%;
                 width: 100%;
                 background-position: center;
@@ -60,7 +60,7 @@
 
             .box {
                 background-color: white;
-                font-size: 20px;
+                font-size: 16px;
                 height: 80%;
                 width: 40%;
                 padding-left: 10px;
@@ -68,7 +68,7 @@
             }
 
             p {
-                padding: 20px;
+                padding: 10px;
                 text-align: justify;
             }
 
@@ -89,18 +89,17 @@
                 width: 70%;
                 padding-left: 15%;
                 padding-bottom: 20px;
-                padding-top: 20px;
             }
 
             .homelogo {
-                height: 80px;
+                height: 65px;
                 width: 55%;
                 padding-left: 15%;
                 padding-bottom: 20px;
             }
 
             .yclogo {
-                height: 65px;
+                height: 60px;
                 width: 55%;
                 padding-left: 15%;
             }
@@ -114,14 +113,14 @@
         <div class="flex-center position-ref full-height">
 
             <div class="box">
-                <p> Dit is vir ons die grootste geskenk dat julle die naweek saam ons vier en ons verwag niks meer nie. As julle egter voel julle wil nog iets bygee, om ons lewe saam te ‘kickstart’, kan julle 'n kontant betaling in die volgende rekening oorweeg:
+                <p> Dit is vir ons die grootste geskenk dat julle die naweek saam ons vier en ons verwag niks meer nie. As julle egter voel julle wil nog iets bygee om ons lewe saam te ‘kickstart’, kan julle 'n kontantbetaling in die volgende rekening oorweeg:<br>
 
-                    N Cilliers
-                    FNB Tjekrekening
-                    Takkode: 250655
-                    Rekeningnommer: 62817439004
+                    N Cilliers<br>
+                    FNB Tjekrekening<br>
+                    Takkode: 250655<br>
+                    Rekeningnommer: 62817439004<br>
 
-                    In die alternatief kan julle ook van die volgende gift registries gebruik maak</p>
+                As alternatief kan julle ook van die volgende "gift registries" gebruik maak:</p>
                 <div>
                     <a href="https://www.lecreuset.co.za/gift-registry/cillierscelebration201971612547"><img src={{asset('images/lclogo.png')}} alt="Logo" class="lclogo"></a>
                 </div>
@@ -140,7 +139,7 @@
             <a href="{{ url('/ander') }}">10-12 Januarie</a>
             <a href="{{ url('/invitation') }}">Uitnodiging</a>
             <a href="{{ url('/rsvp') }}">RSVP</a>
-            <a href="{{ url('/info') }}">Ekstra Informasie</a>
+            <a href="{{ url('/info') }}">Ekstra Inligting</a>
         </div>
     </body>
 </html>

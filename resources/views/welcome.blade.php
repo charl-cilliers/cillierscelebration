@@ -21,7 +21,7 @@
             }
 
             body {
-                background-image: url("/images/b.jpg") !important;
+                background-image: url("/images/home1.jpg") !important;
                 height: 100%;
                 width: 100%;
                 background-position: center;
@@ -35,7 +35,7 @@
 
             .flex-center {
                 align-items: center;
-                display: flex;
+                /*display: flex;*/
                 justify-content: center;
             }
 
@@ -76,25 +76,9 @@
             }
             .quote {
                 color: white;
-                margin-top: 50px;
-                font-size: 40px
+                margin-bottom: 50px;
+                font-size: 40px;
                 font-style: italic;
-            }
-
-            .information {
-                background-color: white;
-                color: black;
-                width: 750px;
-                border: solid 1px;
-                padding: 20px;
-                padding-right: 50px;
-                text-align: justify;
-                -moz-box-shadow:    3px 3px 5px 0px #000;
-                -webkit-box-shadow: 3px 3px 5px 0px #000;
-                box-shadow:         3px 3px 5px 0px #000;
-                -webkit-border-radius: 10px;
-                -moz-border-radius: 10px;
-                border-radius: 10px;
             }
 
             .m-b-md {
@@ -120,13 +104,11 @@
                     <a href="{{ url('/invitation') }}">Uitnodiging</a>
                     <a href="{{ url('/rsvp') }}">RSVP</a>
                     <a href="{{ url('/registries') }}">Registries</a>
-                    <a href="{{ url('/info') }}">Ekstra Informasie</a>
+                    <a href="{{ url('/info') }}">Ekstra Inligting</a>
                 </div>
 
-                <div class="title" style="font-style: italic">
-                    <div style="font-size: 40px">
+                <div class="title" style="font-style: italic; margin-top: 300px; font-size: 40px">
                         “Love is not an emotion, it is your very existence” - Rumi
-                    </div>
                 </div>
 
             </div>

@@ -21,7 +21,7 @@
             }
 
             body {
-                background-image: url("/images/b.jpg") !important;
+                background-image: url("/images/home.jpg") !important;
                 height: 100%;
                 width: 100%;
                 background-position: center;
@@ -85,7 +85,8 @@
     <body>
         <div class="flex-center position-ref full-height">
                 <div class="form">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUbXb0cHSnmlwW3TjUd-RcOl1exXdIwIaghpcoj9mS3pAJdw/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading…</iframe>
+                    {{--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqpPrirgkzBK68t9iL01JlP_aD3-YAqZnSeRjuvezMtq0NaA/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading…</iframe>--}}
+                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqpPrirgkzBK68t9iL01JlP_aD3-YAqZnSeRjuvezMtq0NaA/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading…</iframe>
                 </div>
         </div>
             <div class="links flex-center">
@@ -93,7 +94,7 @@
                 <a href="{{ url('/ander') }}">10-12 Januarie</a>
                 <a href="{{ url('/invitation') }}">Uitnodiging</a>
                 <a href="{{ url('/registries') }}">Registries</a>
-                <a href="{{ url('/info') }}">Ekstra Informasie</a>
+                <a href="{{ url('/info') }}">Ekstra Inligting</a>
             </div>
         </div>
     </body>

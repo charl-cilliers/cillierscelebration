@@ -21,7 +21,7 @@
             }
 
             body {
-                background-image: url("/images/b.jpg") !important;
+                background-image: url("/images/sonfoto.jpg") !important;
                 height: 100%;
                 width: 100%;
                 background-position: center;
@@ -85,8 +85,8 @@
                     <ul>
                         <li>
                             <b>Tydsverloop - </b>Hierdie is net ‘n voorlopige raamwerk, ons sal nader aan die tyd
-                            die finale tye deurgee. Hou asb die webwerf dop so maand voor die troue en
-                            luister maar mooi wat die MC op die naweek laat weet.
+                            die finale tye deurgee. Hou asb die webwerf so maand voor die troue dop en
+                            luister maar mooi wat die MC tydens die naweek laat weet.
                         </li>
                         <ul>
                             <li>Vrydag 10 Januarie</li>
@@ -98,7 +98,7 @@
                             <ul>
                                 <li>11:00 – Brunch te Pat Busch Mountain Reserve</li>
                                 <li>17:00 – Seremonie begin onder die Groot Boom</li>
-                                <li>17:45 – Pre-drinks en Harvest Table by die Swembad</li>
+                                <li>17:45 – Pre-drinks en Harvest Table by die swembad</li>
                                 <li>19:45 – Onthaal begin op die Meadow</li>
                                 <li>21:00 – Aandete</li>
                             </ul>
@@ -126,9 +126,8 @@
                                 julle meer as dit nodig het, bring asb iets saam (waarskynlik vir Saterdag
                                 laatmiddag en iets vir Sondagoggend).</li>
                             <li>Ons vier Vrydagaand 'n paar verjaarsdae so bring asb julle eie drinks
-                                saam en ook vir Saterdag deur die dag as julle ietsie wil drink by die
-                                brunch en deur die loop van die dag. Daar sal 'n volle bar wees by die
-                                troue.</li>
+                                saam. Bring ook iets te drink saam vir Saterdag deur die dag.
+                                Daar sal 'n volle kroeg wees by die troue.</li>
                         </ul>
                     </ul>
                 </div>
