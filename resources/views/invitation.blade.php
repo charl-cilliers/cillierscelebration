@@ -21,7 +21,7 @@
             }
 
             body {
-                background-image: url("/images/b.jpg") !important;
+                background-image: url("/images/son.jpg") !important;
                 height: 100%;
                 width: 100%;
                 background-position: center;
