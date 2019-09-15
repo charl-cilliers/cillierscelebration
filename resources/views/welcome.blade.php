@@ -107,7 +107,7 @@
                     <a href="{{ url('/info') }}">Ekstra Inligting</a>
                 </div>
 
-                <div class="title" style="font-style: italic; margin-top: 300px; font-size: 40px">
+                <div class="title" style="font-style: italic; margin-top: 350px; font-size: 40px">
                         “Love is not an emotion, it is your very existence” - Rumi
                 </div>
 

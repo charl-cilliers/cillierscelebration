@@ -61,7 +61,7 @@
             .box {
                 background-color: white;
                 font-size: 16px;
-                height: 80%;
+                /*height: 80%;*/
                 width: 40%;
                 padding-left: 10px;
                 padding-right: 10px;
@@ -86,22 +86,20 @@
 
             .lclogo {
                 height: 50px;
-                width: 70%;
-                padding-left: 15%;
+                /*width: 70%;*/
                 padding-bottom: 20px;
             }
 
             .homelogo {
                 height: 65px;
-                width: 55%;
-                padding-left: 15%;
+                /*width: 55%;*/
                 padding-bottom: 20px;
             }
 
             .yclogo {
                 height: 60px;
-                width: 55%;
-                padding-left: 15%;
+                /*width: 55%;*/
+                padding-bottom: 20px;
             }
 
             .m-b-md {
@@ -121,13 +119,13 @@
                     Rekeningnommer: 62817439004<br>
 
                 As alternatief kan julle ook van die volgende "gift registries" gebruik maak:</p>
-                <div>
+                <div style="text-align: center">
                     <a href="https://www.lecreuset.co.za/gift-registry/cillierscelebration201971612547"><img src={{asset('images/lclogo.png')}} alt="Logo" class="lclogo"></a>
                 </div>
-                <div>
+                <div style="text-align: center">
                     <a href="https://www.home.co.za/giftlist/giftRegistry.jsp?pageName=giftRegistryView&giftlistId=gl382574169&page=1"><img src={{asset('images/homelogo.jpg')}} alt="Logo" class="homelogo"></a>
                 </div>
-                <div>
+                <div style="text-align: center">
                     <a href="https://www.yuppiechef.com/registry.htm?action=view&orderid=3971455"><img src={{asset('images/yclogo.png')}} alt="Logo" class="yclogo"></a>
                 </div>
             </div>
