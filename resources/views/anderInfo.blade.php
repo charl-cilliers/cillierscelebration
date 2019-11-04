@@ -116,7 +116,7 @@
                             verander Saterdag 11 Jan). Julle is welkom om van 16:00 af by ons aan te sluit,
                             maar ons verstaan dat daar sommige mense is wat eers later gaan kan aansluit.
                             Bring asb julle eie drinkgoed vir Vrydagaand, ons sal sorg vir aandete.<br><br>
-                            Dit sal vir ons lekker wees as julle Saterdagoggend om en by 11:00 saam met ons sal kom
+                            Dit sal vir ons lekker wees as julle Saterdagoggend om en by 10:00 saam met ons sal kom
                             brunch. Ons sal weereens die eetgoed voorsien as julle net ietsie om te drink en
                             ‘n kombers om op te piekniek sal bring. Julle is welkom om ook julle swemklere,
                             handdoek of stapskoene te bring aangesien daar ‘n dam en swembad is om in te
