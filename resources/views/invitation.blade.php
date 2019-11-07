@@ -84,7 +84,7 @@
         <div class="flex-center position-ref full-height">
 
             <div class="content">
-                <img src={{asset('images/invitation.jpg')}} alt="Logo" class="invitation">
+                <img src={{asset('images/invite.jpg')}} alt="Logo" class="invitation">
             </div>
 
         </div>
