@@ -114,9 +114,10 @@
                 <p> Dit is vir ons die grootste geskenk dat julle die naweek saam ons vier en ons verwag niks meer nie. As julle egter voel julle wil nog iets bygee om ons lewe saam te ‘kickstart’, kan julle 'n kontantbetaling in die volgende rekening oorweeg:<br>
 
                     N Cilliers<br>
-                    FNB Tjekrekening<br>
-                    Takkode: 250655<br>
-                    Rekeningnommer: 62817439004<br>
+                    Nedbank<br>
+                    Current account<br>
+                    Takkode: 198765<br>
+                    Rekeningnommer: 1162981563<br>
 
                 As alternatief kan julle ook van die volgende "gift registries" gebruik maak:</p>
                 <div style="text-align: center">

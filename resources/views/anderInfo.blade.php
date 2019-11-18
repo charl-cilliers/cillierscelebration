@@ -123,7 +123,7 @@
                             swem en ‘n berg wat geklim kan word (julle sal ons waarskynlik by die swem
                             opsie vind).<br><br>
                             Die huweliksbevestiging en feesvieringe sal Saterdag om en by
-                            17:00 begin (finale tye sal nader aan die tyd deurgegee word afhangend van die
+                            16:30 begin (finale tye sal nader aan die tyd deurgegee word afhangend van die
                             Kaapse Januarie weer). Aandete sal eers ongeveer 21:00 bedien word, so indien
                             julle voel julle gaan nie tot dan hou nie, maak asb seker om iets saam te bring om
                             te eet as ‘n laatmiddag snack (daar sal darem ook vingerhapies wees direk na die

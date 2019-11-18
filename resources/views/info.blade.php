@@ -97,7 +97,7 @@
                             <li>Saterdag 11 Januarie</li>
                             <ul>
                                 <li>10:00 – Brunch te Pat Busch Mountain Reserve</li>
-                                <li>17:00 – Seremonie begin onder die Groot Boom</li>
+                                <li>16:30 – Seremonie begin onder die Groot Boom</li>
                                 <li>17:45 – Pre-drinks en Harvest Table by die swembad</li>
                                 <li>19:45 – Onthaal begin op die Meadow</li>
                                 <li>21:00 – Aandete</li>
