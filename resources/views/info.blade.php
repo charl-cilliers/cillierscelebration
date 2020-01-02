@@ -92,6 +92,7 @@
                             <li>Vrydag 10 Januarie</li>
                             <ul>
                                 <li>16:00 – Gaste begin arriveer te Pat Busch Mountain Reserve</li>
+                                <li>18:00 - Verjaarsdagbraai begin by Erika Farmhouse @ Pat Busch Mountain Reserve</li>
                                 <li>20:00 – Aandete</li>
                             </ul>
                             <li>Saterdag 11 Januarie</li>
@@ -104,7 +105,7 @@
                             </ul>
                             <li>Sondag 12 Januarie</li>
                             <ul>
-                                <li>Gaste vertrek op hul eie tyd</li>
+                                <li>10:00 - Gaste moet asb uitgecheck wees</li>
                             </ul>
                         </ul>
                     </ul>
